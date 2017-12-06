@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": " 远走高飞",
+        "artist": "金志文",
+        "file": "http://sc1.111ttt.com/2017/1/11/11/304112003137.mp3",
+        "cover": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=d8601f199f504fc2b652b85784b48c74/8cb1cb13495409232a1af06f9658d109b3de49b4.jpg"
+    },
+    {
+        "id": 2,
+        "title": "校长",
+        "artist": "带你去旅行",
+        "file": "http://sc1.111ttt.com/2017/1/11/11/304112004168.mp3",
+        "cover": "https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=bb21332971899e51788e3d127a9cbe0e/902397dda144ad34d7596753daa20cf430ad8504.jpg"
+    },
+    {
+        "id": 3,
+        "title": "岑宁儿",
+        "artist": "追光者",
+        "file": "http://sc1.111ttt.com/2017/1/11/11/304112002347.mp3",
+        "cover": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=21159242b63eb13544c7b0bd9e25cfee/58ee3d6d55fbb2fbe209e6b8454a20a44623dc7e.jpg"
+    },
+    {
+        "id": 4,
+        "title": "黑龙",
+        "artist": "盗心贼",
+        "file": "http://sc1.111ttt.com/2017/1/11/11/304112002593.mp3",
+        "cover": "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=fceff896daa20cf44690f9d94e322c0b/79f0f736afc37931af38f938e1c4b74543a9114a.jpg"
+    },
+    {
+        "id": 5,
+        "title": "成都",
+        "artist": "赵雷",
+        "file": "http://sc1.111ttt.com/2016/1/12/04/205041718593.mp3",
+        "cover": "http://oj4t8z2d5.bkt.clouddn.com/%E6%88%90%E9%83%BD.jpg"
+    },
+    {
+        "id": 6,
+        "title": "天使中的魔鬼",
+        "artist": "田馥甄",
+        "file": "http://sc1.111ttt.com/2017/1/11/11/304112004168.mp3",
+        "cover": "http://oj4t8z2d5.bkt.clouddn.com/%E9%AD%94%E9%AC%BC%E4%B8%AD%E7%9A%84%E5%A4%A9%E4%BD%BF.jpg"
+    }
+]
